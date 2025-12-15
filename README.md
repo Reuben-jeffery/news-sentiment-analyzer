@@ -26,6 +26,7 @@ NewsAPI – news data source
 Pandas – data manipulation
 
 Setup Instructions
+
 1. Clone the repository
 bash
 git clone https://github.com/<your-username>/news-sentiment-analyzer.git
